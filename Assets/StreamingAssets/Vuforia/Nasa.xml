@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="mars_puzzle" size="50.000000 44.202068" />
+    <ImageTarget name="saturn_puzzle" size="50.000000 44.202068" />
+    <ImageTarget name="mercury_puzzle" size="50.000000 44.202068" />
+    <ImageTarget name="earth_puzzle" size="50.000000 44.202068" />
+    <ImageTarget name="venus_puzzle" size="50.000000 44.202068" />
+    <ImageTarget name="pluto_puzzle" size="50.000000 44.202068" />
+    <ImageTarget name="sun_puzzle" size="50.000000 44.202068" />
+    <ImageTarget name="uranus_puzzle" size="50.000000 44.202068" />
+    <ImageTarget name="neptune_puzzle" size="50.000000 44.202068" />
+    <ImageTarget name="jupiter_puzzle" size="50.000000 44.202068" />
+    <ImageTarget name="hubble_puzzle" size="50.000000 44.202068" />
+  </Tracking>
+</QCARConfig>
